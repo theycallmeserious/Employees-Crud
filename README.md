@@ -2,7 +2,7 @@
 
 This is a demo project that I used for showing CRUD Operations ( Insert, Update, Delete, and Retrieve) with the Latest ASP.NET Core 8.0 using Entity Framework Core and SQL Server DB and Angular.
 
-Points discussed :
+Points Implemeneted :
 
 * Create API, Angular Projects
 * Define EF Core Model
